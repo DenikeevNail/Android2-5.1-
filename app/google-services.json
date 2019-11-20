@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698886370337",
+    "firebase_url": "https://taskapp-9ac45.firebaseio.com",
+    "project_id": "taskapp-9ac45",
+    "storage_bucket": "taskapp-9ac45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698886370337:android:4ab556f2d7d33aa418df60",
+        "android_client_info": {
+          "package_name": "com.taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698886370337-obv55bam2eic3qpn8d3jg03n8so07g1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taskapp",
+            "certificate_hash": "b0ae00384275b20f376f5e69d948e587a71ecf71"
+          }
+        },
+        {
+          "client_id": "698886370337-c65q4mhs1in0gpvpb5iacialtlgqo89f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinD-hhpisIi41nbxvxNriKZV0ll4MOIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698886370337-c65q4mhs1in0gpvpb5iacialtlgqo89f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
